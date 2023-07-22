@@ -5,16 +5,17 @@
     margin: 0 !important;
 }
 .nav-link {
-    color: #222 !important;
-}
+    color: #222 !important;  
 /* styling button */
-.btn-log, .btn-sign, .btn-hero {
+
+.btn-hero, .btn-sign, .btn-hero {
     outline: none;
     border: 0;
     box-shadow: none;
     cursor: pointer;
     font-size: 15px;
 }
+
 .btn-sign, .btn-hero {
     padding: 8px 22px;
     background: #372b7ae1;
